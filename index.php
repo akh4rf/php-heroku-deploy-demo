@@ -31,12 +31,20 @@
     font-family: 'Noto Sans', sans-serif;
     color: white;
   }
+
+  a {
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+  }
 </style>
 
 <body>
 
   <img src="./heroku-logos/stroke-white-transparent.png" alt="Heroku Logo">
   <h1>Successfully deployed PHP app to Heroku!</h1>
+  <a href="https://github.com/akh4rf/php-heroku-deploy-demo">
+    <p>Link to Github</p>
+  </a>
 
 </body>
 
